@@ -1,0 +1,15 @@
+#+TITLE: Observable Dataflow Mode
+
+** What's this?
+
+   This is a major mode for Emacs to provide support for ~.ojs~ files
+   used by [[https://github.com/asg017/dataflow][Dataflow]], a CLI tool that supports working with Observable
+   notebooks locally.
+
+   The major mode depends on Dataflow being installed.
+
+   *Warning:* Currently only provides a couple of commands for
+   handling a Dataflow development server, and enables Javascript
+   syntax highlighting.
+
+   
